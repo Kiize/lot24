@@ -1,13 +1,13 @@
-info: " <p> The Lights of Tuscany programme has reached its fifth edition and we are happy to annouce the return of this event on the international scale, with new activities and improvements
+info: " <p> The Lights of Tuscany programme has reached its sixth edition and we are happy to annouce the return of this event on the international scale, with new activities and improvements
 <p> The event will have a focus on Photonics, but a number of other topics will be touched upon, including Matter physics, Quantum Optics, Biophysics. To have a basic understanding of these subjects will help in order to effectively make the most of the programme, but this is an opportunity for everyone to learn regardless of one's background.
-<p> Lights of Tuscany 2023 will also see alongside its participants, the students of the last years of high school in Pisa that will join us on the first day of conferences, to give them a first look in the world of research and university, as well as the chance to meet both students and professors and ask them any question regarding their research. Anyone is invited to share their own experience during the conferences and coffee breaks.</p>
+<p> Lights of Tuscany 2024 will also see alongside its participants, the students of the last years of high school in Pisa that will join us on the first day of conferences, to give them a first look in the world of research and university, as well as the chance to meet both students and professors and ask them any question regarding their research. Anyone is invited to share their own experience during the conferences and coffee breaks.</p>
 <p> The Program will be constantly updated as further details are provided. </p> "
 
 
 
 schedule:
-  - day: Friday
-    date: "28/04"
+  - day: Thursday
+    date: "16/05"
     short_descr: Arrival in Pisa and welcome cerimony.
     activity:
       - hour: "07:00 - 14:00"
@@ -21,8 +21,8 @@ schedule:
       - hour: "21.00 - .."
         descr: "Night visits in Pisa"
         
-  - day: Saturday
-    date: "29/04"
+  - day: Friday
+    date: "17/05"
     short_descr: Lab Visits in Pisa
     activity:
       - hour: "07:00 - 08:30"
@@ -39,8 +39,8 @@ schedule:
         descr: "Free dinner"
               
                 
-  - day: Sunday
-    date: "30/04"
+  - day: Saturday
+    date: "18/05"
     short_descr: Student Talks and Pisa visits
     activity:
       - hour: "07:00 - 08:00"
@@ -59,8 +59,8 @@ schedule:
         descr: "Free night and social activities"  
         
         
-  - day: Monday
-    date: "01/05"
+  - day: Sunday
+    date: "19/05"
     short_descr: Transfer to Florence
     activity:
       - hour: "07:00 - 8:00"
@@ -74,8 +74,8 @@ schedule:
       - hour: "15:00 - 18:00"
         descr: "Guided Visits of Florence"
         
-  - day: Martedì 2
-    date: "02/05"
+  - day: Monday
+    date: "20/05"
     short_descr: LENS and Closing Cerimony
     activity:
       - hour: "07:00 - 8:00"
